@@ -2,26 +2,26 @@
     font-family: "DINPro-Medium";
     font-style: normal;
     font-weight: 400;
-    src: url("/fonts/dinpro_medium.woff") format("woff");
+    src: url("../fonts/dinpro_medium.woff") format("woff");
 }
 
 @font-face {
     font-family: "DINPro-CondensedMedium";
     font-style: normal;
     font-weight: 400;
-    src: url("/fonts/dinpro_condensedmedium.woff") format("woff");
+    src: url("../fonts/dinpro_condensedmedium.woff") format("woff");
 }
 
 @font-face {
     font-family: "DINPro-CondensedRegular";
     font-style: normal;
     font-weight: 400;
-    src: url("/fonts/dinpro_condensedregular.woff") format("woff");
+    src: url("../fonts/dinpro_condensedregular.woff") format("woff");
 }
 
 @font-face {
     font-family: "Raleway";
     font-style: normal;
     font-weight: 400;
-    src: url("/fonts/Raleway-Regular.woff") format("woff");
+    src: url("../fonts/Raleway-Regular.woff") format("woff");
 }
