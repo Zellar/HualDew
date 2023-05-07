@@ -1,0 +1,1372 @@
+@media(max-width: 1700px) {
+
+}
+
+@media(max-width: 1240px) {
+    .container {
+        max-width: 1000px;
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+    }
+    h2 {
+        font-size: 40px;
+    }
+    
+    .header_nav-link {
+        font-size: 16px;
+    }
+
+    .header_nav-list {
+        column-gap: 14px;
+    }
+
+    .header_logo img {
+        width: 90%;
+    }
+
+    .bread-crumbs {
+        font-size: 20px;
+    }
+
+    .btn {
+        font-size: 26px;
+        max-width: 300px;
+    }
+
+    .footer {
+        padding-top: 50px;
+        font-size: 20px;
+    }
+
+    a.footer_tel::after {
+        background-size: contain;
+    }
+
+    a.footer_tel:hover::after {
+        transform: translateX(5px);
+    }
+
+    .footer a {
+        font-size: 20px;
+    }
+
+    .footer_social-item a {
+        width: 40px;
+        height: 40px;
+    }
+
+    .footer_social-item svg {
+        width: 25px;
+    }
+
+    .footer_doc-info {
+        margin-bottom: 70px;
+    }
+
+    .footer_partner-block {
+        padding: 35px 15px;
+    }
+
+    .footer_partner-logo {
+        margin-bottom: 35px;
+    }
+    .footer_partner-logo img {
+        width: 90%;
+    }
+
+    .footer_logo {
+        width: 90%;
+        min-width: 120px;
+    }
+
+    .about-product_text-block p {
+        margin-bottom: 60px;
+    }
+
+    p {
+        font-size: 24px;
+    }
+
+    .top-slider .splide__slide-img {
+        height: auto;
+    }
+
+    .top-slider .splide__arrow--prev {
+        left: 10%;
+    }
+    .top-slider .splide__arrow--next {
+        right: 10%;
+    }
+    .about-product_text-block {
+        width: 48%;
+    }
+
+    .about-brand_representation p {
+        font-size: 32px;
+    }
+
+    .about-brand {
+        padding: 62px 0;
+    }
+
+    .about-product {
+        padding: 72px 0 60px;
+    }
+
+    .about-brand .bottom-left-corner {
+        display: none;
+    }
+
+    .technology_text-block p {
+        font-size: 32px;
+    }
+
+    .technology_attention-img {
+        left: -471px;
+    }
+
+    .security_pedestal-title {
+        font-size: 40px;
+    }
+    .security {
+        padding: 60px 0 490px 0;
+        background-position: center bottom;
+        background-size: 100%;
+        background-color: #DDDFDE;
+    }
+
+    .filler_benefits-list .list_item:before {
+        width: 55px;
+        height: 55px;
+    }
+    .use_decor {
+        background-size: 70%;
+        background-position: center;
+        bottom: -47%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .use_wrapper {
+        height: 400px;
+    }
+
+    .use_item {
+        padding: 20px 60px 20px 130px;
+        left: -130px;
+        height: 150px;
+    }
+
+    .use_list--right .use_item {
+        padding: 20px 130px 20px 60px;
+        right: -120px;
+    }
+
+    .advantages_img {
+        right: -40%;
+    }
+
+    .advantages {
+        padding: 80px 0 100px;
+    }
+
+    .advantages_list .list_item br {
+        display: none;
+    }
+
+    .advantages h2 {
+        margin-bottom: 100px;
+    }
+
+    .education-title_title {
+        font-size: 44px;
+    }
+
+    .education-title_subtitle {
+        font-size: 44px;
+        margin-bottom: 95px;
+    }
+
+    .education-title p {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+    
+    .education-title {
+        padding: 120px 0 90px;
+    }
+    .sign-up_links {
+        margin-bottom: 70px;
+    }   
+    
+    .sign-up_links .link {
+        text-align: center;
+    }
+    .sign-up {
+        padding: 80px 0 120px;
+    }
+    .webinars {
+        padding: 75px 0;
+    }
+    .seminars {
+        padding: 90px 0;
+    }
+    .conferences {
+        padding: 75px 0;
+    }
+    .webinars h2 {
+        top: -75px;
+    }
+    .conferences h2 {
+        top: -75px;
+    }
+    
+    .speakers {
+        padding: 90px 0;
+    }
+
+    .aestheticus-block {
+        height: 700px;
+    }
+
+    #information_tabs .tabs-list {
+        top: -146px;
+    }
+
+    #information_tabs .tabs-list_item {
+        font-size: 20px;
+    }
+    .collection_slider img {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .product {
+        padding-bottom: 90px;
+    }
+    .information {
+        padding: 60px 20px;
+    }
+    .collection {
+        padding: 60px 0 40px;
+    }
+    .technology-hualdew h2 {
+        margin-bottom: 80px;
+    }
+    #technology_tabs .tabs-list_item {
+        font-size: 30px;
+    }
+    
+}
+
+@media(max-width: 991px) {
+    .container {
+        max-width: 748px;
+    }
+
+    .security_benefits-list .list_item {
+        width: 100%;
+    }
+
+    .security_benefits-list .list_item:before {
+        width: 40px;
+        height: 40px;
+        left: -40px;
+    }
+
+    .security_benefits-list {
+        gap: 40px;
+    }
+
+    .security_pedestal-title {
+        left: 0;
+    }
+
+    .security_pedestal-title br {
+        display: none;
+    }
+
+    .technology_attention-img {
+        border-radius: 0 70px 0 0;
+        left: -360px;
+        top: 25px;
+        background-position: 90%;
+    }
+
+    .technology_benefits-list .list_item {
+        width: 100%;
+    }
+
+    .technology_attention_text-block {
+        width: 50%;
+    }
+
+    .technology_attention_text-block {
+        font-size: 44px;
+    }
+
+    .technology_attention_text-block p {
+        font-size: 44px;
+    }
+
+    .technology .top-right-corner {
+        display: none;
+    }
+
+    .technology .bottom-left-corner {
+        display: none;
+    }
+
+    .about-product_description-block {
+        flex-direction: column;
+    }
+    .about-product_description-img {
+        position: relative;
+        right: -130px;
+        top: 0;
+        order: -1;
+        margin-bottom: 30px;
+        background-position: center;
+        background-size: contain;
+    }
+    .about-product_text-block {
+        width: 100%;
+    }
+    .about-product_text-block p {
+        margin-bottom: 40px;
+    }
+
+    .about-product_text-block p br {
+        display: none;
+    }
+    .technology {
+        padding: 30px 0 60px;
+    }
+    .buy_wrapper {
+        flex-direction: column;
+    }
+
+    .buy_text {
+        margin-bottom: 50px;
+    }
+
+    .buy_form {
+        width: 100%;
+    }
+
+    .menu {
+        display: flex;
+        margin-right: 10px;
+        flex: 0 0 auto;
+        align-self: flex-start;
+    }
+
+    .header_nav {
+        opacity: 0;
+        pointer-events: none;
+        position: absolute;
+        background-color: var(--white-color);
+        width: 100%;
+        left: 0;
+        z-index: 10;
+        top: 110px;
+    }
+        .header_nav-list {
+            flex-direction: column;
+            padding: 10px 25px;
+            row-gap: 10px;
+            border-bottom: 2px solid var(--gold-color);
+        }
+        .header_nav.active {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .header_nav-link {
+            padding: 5px;
+        }
+
+    .header_tel {
+        margin-left: auto;
+    }
+
+    .header {
+        position: relative;
+    }
+    .footer_wrapper {
+        flex-wrap: wrap;
+    }
+
+    .footer-left-col {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .footer-right-col {
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 30px;
+    }
+
+    .footer_links {
+        display: none;
+    }
+
+    .footer_links-mob {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        justify-content: center;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .footer_partner-block {
+        margin: 0 -20px;
+    }
+
+    .footer_partner-block p {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .footer_partner-block p br {
+        display: none;
+    }
+
+    .showcase_product-list-item {
+        width: 35%;
+    }
+
+    .list {
+        font-size: 26px;
+    }
+
+    .security {
+        padding: 40px 0 440px;
+        background-image: url('../images/security/pedestal.webp');
+    }
+
+    .filler_benefits-list {
+        align-items: center;
+        flex-direction: column;
+    }
+    .filler_benefits-list .list_item {
+        width: 70%;
+    }
+
+    .filler {
+        padding: 55px 0;
+    }
+
+    .filler h2 {
+        margin-bottom: 70px;
+    }
+
+    .use_item {
+        padding: 20px;
+        left: -70px;
+        width: 300px;
+        font-size: 20px;
+    }
+
+    .use_list--right .use_item {
+        padding: 20px;
+        right: -70px;
+        width: 300px;
+    }
+
+    .use_decor {
+        background-size: 50%;
+        height: 475px;
+        background-position: top;
+        bottom: -12%;
+    }
+
+    .use h2 {
+        margin-bottom: 180px;
+    }
+
+    .icons-block_list {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .icons-block_item {
+        width: 100%;
+    }
+
+    .icons-block {
+        padding: 50px 0;
+    }
+
+    .advantages_img {
+        display: none;
+    }
+
+    .advantages {
+        padding: 60px 0 80px;
+    }
+
+    .advantages h2 {
+        margin-bottom: 80px;
+    }
+
+    .advantages_list {
+        width: 100%;
+    }
+
+    .education-title {
+        padding: 90px 0;
+    }
+    .education-title_title {
+        font-size: 40px;
+    }
+    .education-title_subtitle {
+        font-size: 40px;
+        margin-bottom: 65px;
+    }
+    .education-title p {
+        font-size: 28px;
+    }
+    .education-title p {
+        font-size: 28px;
+    }
+
+    .sign-up {
+        padding: 60px 0 100px;
+    }
+
+    .sign-up_links .link {
+        width: 100%;
+    }
+
+    .sign-up_links {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .sign-up_card {
+        width: 50%;
+        height: 300px;
+    }
+    .sign-up_cards {
+        height: auto;
+    }
+
+    .webinars {
+        padding: 55px 0;
+    }
+
+    .cards-list_item {
+        width: 49.6%;
+    }
+
+    .seminars {
+        padding: 60px 0 90px;
+    }
+
+    .cards-list--2-col .cards-list_item {
+        width: 100%;
+    }
+
+    .conferences {
+        padding: 55px 0;
+    }
+
+    .speakers {
+        padding: 50px 0;
+    }
+
+    .speakers_slider .splide__circle-arrow-left {
+        left: -2%;
+    }
+
+    .speakers_slider .splide__circle-arrow-right {
+        right: -2%;
+    }
+
+    .aestheticus-block_title {
+        font-size: 40px;
+        margin-bottom: 60px;
+    }
+    .aestheticus-block {
+        height: 600px;
+    }
+
+    .characteristics_name {
+        width: 30%;
+    }
+    .characteristics_value {
+        width: 60%;
+    }
+    #information_tabs .tabs-list_item {
+        padding: 15px 25px;
+    }
+    #information_tabs .tabs-list {
+        top: -96px;
+    }
+    .information_list .list_item:before {
+        width: 30px;
+        height: 30px;
+        left: -15px;
+        background-size: contain;
+    }
+    .information {
+        padding: 40px 20px;
+    }
+    .collection {
+        padding: 40px 0 40px;
+    }
+    .collection_slider img {
+        width: 100%;
+        height: 750px;
+    }
+    .collection_slider .splide__arrow--prev {
+        left: 5%;
+    }
+    .collection_slider .splide__arrow--next {
+        right: 5%;
+    }
+
+    .technology-hualdew h2 {
+        margin-bottom: 60px;
+    }
+
+    .technology-hualdew_ad {
+        padding: 45px;
+    }
+    .gold-color--big {
+        font-size: 50px;
+    }
+    .technology_item span {
+        font-size: 30px;
+    }
+    #technology_tabs .tabs-list {
+        margin-bottom: 30px;
+    }
+    #technology_tabs .tab-content p {
+        font-size: 20px;
+    }
+
+    .tecknology_list-img img {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media(max-width: 768px) {
+    .h2-mobile {
+        display: block;
+    }
+    .product_descr .h2--another-style {
+        display: none;
+    }
+
+    .product_wrapper {
+        flex-direction: column;
+    }
+
+    .product_slider {
+        width: 100%;
+        margin-bottom: 30px
+    }
+    .product_descr {
+        width: 100%;
+    }
+    #information_tabs .tabs-list_item {
+        padding: 15px 15px;
+    }
+
+    #information_tabs {
+        display: none;
+    }
+    .information {
+        display: none;
+    }
+
+    .information-mob {
+        display: block;
+    }
+
+    .information_tabs-mob {
+        display: block;
+    }
+
+    .btn {
+        max-width: 240px;
+    }
+
+    .seminars_select .bv_ul_inner {
+        transform: translateX(0%);
+    }
+
+    .footer_wrapper {
+        margin-bottom: 40px;
+    }
+
+    .footer_doc-info {
+        margin-bottom: 40px;
+    }
+
+    .container {
+        max-width: 576px;
+    }
+
+    .about-product_description-img {
+        width: 100%;
+        background-position: 100%;
+        height: 240px;
+    }
+
+    .about-product_text-block p {
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    .about-product {
+        padding: 52px 0 40px;
+    }
+
+    h2 {
+        font-size: 38px;
+    }
+
+    .technology_text-block p {
+        font-size: 28px;
+    }
+
+    .technology_text-block p br {
+        display: none;
+    }
+
+    .technology_attention_text-block p {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+
+    .technology_attention-img {
+        left: -278px;
+        top: 7px;
+    }
+
+    .technology_attention_text-block {
+        font-size: 38px;
+    }
+
+    .technology {
+        padding: 20px 0 50px;
+    }
+
+    .security h2 {
+        margin-bottom: 60px;
+    }
+
+    .list {
+        font-size: 24px;
+    }
+    .security_benefits-list .list_item:before {
+        width: 30px;
+        height: 30px;
+        left: -30px;
+    }
+    .security_pedestal-title {
+        font-size: 36px;
+    }
+
+    .filler {
+        padding: 45px 0;
+    }
+    .filler_benefits-list .list_item:before {
+        width: 45px;
+        height: 45px;
+    }
+    .filler_benefits-list .list_item {
+        padding: 80px 25px 25px 25px;
+    }
+    .use h2 {
+        margin-bottom: 120px;
+    }
+    .use_decor {
+        bottom: -20%;
+        background-size: 40%;
+        background-position: center center;
+        width: 100%;
+        height: 300px;
+    }
+    .use_wrapper {
+        height: auto;
+    }
+    .use_item {
+        left: -20px;
+        width: 230px;
+        font-size: 16px;
+        height: 100px;
+    }
+
+    .use_list--right .use_item {
+        right: -20px;
+        width: 230px;
+    }
+
+    .icons-block {
+        padding: 30px 0;
+    }
+    .icons-block_item img {
+        max-width: 80px;
+        margin-bottom: 20px;
+    }
+    .icons-block_item p {
+        font-size: 20px;
+    }
+    .advantages {
+        padding: 40px 0 60px;
+    }
+    .advantages h2 {
+        margin-bottom: 50px;
+    }
+    .advantages_list {
+        gap: 20px;
+    }
+
+    .showcase_product-link {
+        padding: 14px 20px;
+        font-size: 18px;
+    }
+    .showcase {
+        padding: 40px 0 40px;
+    }
+    .top-slider .splide__pagination {
+        bottom: -25px;
+    }
+    .showcase_product-title {
+        font-size: 25px;
+    }
+
+    .about-brand_representation p {
+        font-size: 28px;
+    }
+
+    .about-product_description-img {
+        right: -50px;
+    }
+    .slide-img-mob {
+        display: block;
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+    }
+    .splide__slide-img {
+        display: none;
+    }
+    .education-title_title {
+        font-size: 30px;
+    }
+    .education-title_subtitle {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .education-title {
+        padding: 60px 0;
+    }
+    .education-title p {
+        font-size: 20px;
+    }
+
+    .link--another-color {
+        font-size: 24px;
+    }
+    .sign-up_card a {
+        font-size: 30px;
+    }
+
+    .sign-up_icon {
+        background-size: contain;
+        width: 90px;
+        height: 90px;
+    }
+
+    .cards-list_text {
+        font-size: 20px;
+    }
+
+    .cards-list_list-item {
+        font-size: 16px;
+    }
+
+    .cards-list_link .link {
+        font-size: 18px;
+        padding: 10px;
+    }
+    .webinars h2 {
+        top: -71px;
+    }
+    .conferences h2 {
+        top: -73px;
+    }
+    .cards-list_info {
+        font-size: 18px;
+    }
+    .speakers {
+        padding: 30px 0;
+    }
+    .speakers_slider-name {
+        font-size: 20px;
+    }
+    .speakers_slider-info {
+        font-size: 18px;
+    }
+    .speakers_slider .splide__circle-arrow-left {
+        left: 5%;
+    }
+
+    .speakers_slider .splide__circle-arrow-right {
+        right: 5%;
+    }
+    .aestheticus-block {
+        height: 460px;
+    }
+    .aestheticus-block_title::after {
+        bottom: -20px;
+    }
+    .aestheticus-block_title {
+        font-size: 34px;
+        margin-bottom: 40px;
+    }
+    .speakers_slider .link {
+        font-size: 18px;
+        padding: 10px;
+    }
+
+    .collection_slider img {
+        height: 600px;
+    }
+    .information_tabs-mob_text {
+        padding-left: 20px;
+    }
+    .information_tabs-mob_text::before {
+        left: -15px;
+    }
+    .tecknology_list {
+        flex-wrap: wrap;
+        row-gap: 40px;
+    }
+    .tecknology_list-item {
+        width: 50%;
+    }
+    .tecknology_list-img {
+        display: none;
+    }
+    .tecknology_list-wrapper img {
+        display: block;
+        width: 70%;
+        margin-left: 60px;
+    }
+    .tecknology_list-item:nth-child(3) .tecknology_list-wrapper img  {
+        margin-bottom: 108px;
+    }
+    .tecknology_list-item:nth-child(4) .tecknology_list-wrapper img  {
+        margin-left: 0;
+    }
+    .tecknology_list-text {
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width: 576px) {
+    .tecknology_list-item:nth-child(3) .tecknology_list-wrapper img  {
+        margin-bottom: calc(100vw - 81.4vw);
+    }
+    .tecknology_list-wrapper img {
+        margin-left: 0;
+    }
+    #technology_tabs .tab-content p {
+        font-size: 18px;
+    }
+    #technology_tabs .tecknology_list-title {
+        font-size: 20px;
+        padding: 10px;
+    }
+    #technology_tabs .tabs-list {
+        gap: 60px;
+    }
+    #technology_tabs .tabs-list_item {
+        font-size: 20px;
+    }
+    .gold-color--big {
+        font-size: 40px;
+    }
+    .technology-hualdew_ad {
+        padding: 15px;
+    }
+    .technology_item {
+        font-size: 18px;
+    }
+    .technology_list {
+        gap: 20px;
+    }
+    .technology_item span {
+        font-size: 24px;
+    }
+
+    .technology-hualdew_ad {
+        margin-bottom: 60px;
+    }
+
+    .characteristics {
+        font-size: 18px;
+    }
+
+    .information_tabs-mob p {
+        font-size: 20px;
+    }
+
+    .collection_slider img {
+        width: 250px;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .about-product_description-img {
+        right: -10px;
+        height: 180px;
+    }
+    .technology_attention-img {
+        display: none;
+    }
+    .technology_attention_text-block {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .technology_attention_text-block p {
+        text-align: left;
+        padding-left: 0;
+    }
+    .technology_attention-block {
+        padding-top: 0;
+    }
+    .technology_attention_text-block p br {
+        display: none;
+    }
+    .technology_text-block p br {
+        display: none;
+    }
+    h2 {
+        font-size: 35px;
+        margin-bottom: 40px;
+    }
+    h2::after {
+        bottom: -15px;
+    }
+    .form_buttons-wrapper {
+        gap: 20px;
+    }
+    .btn {
+        max-width: 100%;
+    }
+    .buy {
+        padding: 30px 0;
+    }
+    .footer_social-item a {
+        width: 30px;
+        height: 30px;
+    }
+    .footer_social-item svg {
+        width: 20px;
+    }
+
+    .btn {
+        font-size: 20px;
+    }
+    .footer a {
+        font-size: 18px;
+    }
+    .about-brand {
+        padding: 42px 0;
+    }
+    .about-product {
+        padding: 40px 0;
+    }
+    .security {
+        padding: 40px 0 330px;
+    }
+    .security_pedestal-title {
+        font-size: 30px;
+        text-align: center;
+    }
+    .filler_benefits-list .list_item {
+        width: 90%;
+    }
+    .use h2 {
+        margin-bottom: 50px;
+    }
+    .use_decor {
+        display: none;
+    }
+
+    .use_wrapper {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .use_item {
+        clip-path: none;
+        left: 0;
+        background: linear-gradient(180deg, rgba(204,204,204,0.5) 70%, rgba(255,255,255,1) 100%);
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .use_list--right .use_item {
+        clip-path: none;
+        right: 0;
+        background: linear-gradient(180deg, rgba(204,204,204,0.5) 70%, rgba(255,255,255,1) 100%);
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .use_item:nth-child(2) {
+        top: 0;
+    }
+
+    .use_list--right .use_item:nth-child(1) {
+        top: 0;
+    }
+
+    .use_list--right .use_item:nth-child(2) {
+        top: 0;
+    }
+
+    .use_list--right .use_item:nth-child(3) {
+        top: 0px;
+    }
+
+    .use_list {
+        width: 100%;
+        gap: 10px;
+    }
+    .icons-block_item img {
+        max-width: 60px;
+    }
+
+    .list {
+        font-size: 20px;
+    }
+
+    .showcase_product-title {
+        font-size: 20px;
+    }
+
+    .about-product_description-block {
+        padding-top: 0;
+    }
+    .technology_text-block p {
+        font-size: 24px;
+    }
+
+    .link {
+        padding: 10px 10px;
+    }
+    .technology_link {
+        margin-bottom: 30px;
+    }
+
+    .education-title_title {
+        font-size: 28px;
+    }
+    .education-title_subtitle {
+        font-size: 28px;
+        margin-bottom: 25px;
+    }
+    .education-title p {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .education-title {
+        padding: 40px 0;
+    }
+    .sign-up {
+        padding: 40px 0 80px;
+    }
+    .sign-up_card a {
+        font-size: 24px;
+    }
+    .sign-up_icon {
+        background-size: contain;
+        width: 70px;
+        height: 70px;
+    }
+    .sign-up_card {
+        height: 260px;
+    }
+    .webinars h2 {
+        top: -59px;
+        width: 100%;
+    }
+    .cards-list_text {
+        font-size: 18px;
+    }
+    .webinars {
+        padding: 40px 0;
+    }
+    .seminars {
+        padding: 40px 0 80px;
+    }
+    .conferences h2 {
+        top: -58px;
+    }
+    .conferences {
+        padding: 40px 0;
+    }
+    .aestheticus-block_title {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .aestheticus-block {
+        height: 380px;
+    }
+    .aestheticus-block_title::after {
+        bottom: -10px;
+    }
+    .cards-list_item {
+        width: 48.6%;
+    }
+    .cards-list {
+        gap: 10px;
+    }
+    .aestheticus-block {
+        padding-top: 0px;
+        height: 330px;
+    }
+    .aestheticus-block_text-block {
+        left: 40%;
+        top: 30%;
+    }
+    .speakers_slider-wrapper {
+        padding: 20px;
+    }
+    .speakers_slider-avatar {
+        max-width: 170px;
+    }
+}
+
+@media(max-width: 425px) {
+    #technology_tabs .tecknology_list-title {
+        font-size: 18px;
+    }
+    .collection_slider img {
+        width: 200px;
+        height: 500px;
+    }
+    .buy_text {
+        font-size: 18px;
+    }
+
+    .buy_text br {
+        display: none;
+    }
+
+    form {
+        font-size: 18px;
+    }
+
+    .bread-crumbs {
+        font-size: 18px;
+    }
+
+    .header_logo {
+        width: 55%;
+    }
+
+    .about-product_description-img {
+        height: 130px;
+    }
+    .security {
+        padding: 40px 0 270px;
+    }
+
+    .education-title_title {
+        font-size: 24px;
+    }
+    .education-title_subtitle {
+        font-size: 24px;
+    }
+
+    .education-title p br {
+        display: none;
+    }
+    .link--another-color {
+        font-size: 18px;
+    }
+    .sign-up_card a {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        justify-content: center;
+    }
+    .sign-up_card {
+        height: 170px;
+    }
+    .sign-up_icon {
+        width: 50px;
+        height: 50px;
+    }
+    .cards-list_item {
+        width: 100%;
+    }
+    .webinars h2 {
+        top: -53px;
+    }
+    .conferences h2 {
+        top: -52px;
+    }
+    .speakers_slider .splide__circle-arrow-right {
+        top: 45%;
+        right: 0;
+    }
+    .speakers_slider .splide__circle-arrow-left {
+        left: 0%;
+        top: 37%;
+    }
+    .aestheticus-block_title {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .aestheticus-block {
+        height: 280px;
+    }
+}
+
+@media(max-width: 375px) {
+    .collection_slider .splide__arrow--prev {
+        left: 0%;
+    }
+    .collection_slider .splide__arrow--next{
+        right: 0%;
+    }
+    .footer_partner-block p {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+
+    .showcase_product-title {
+        font-size: 16px;
+    }
+
+    .showcase_product-link {
+        font-size: 16px;
+        padding: 10px;
+    }
+    .security {
+        padding: 40px 0 240px;
+    }
+}
